@@ -8,9 +8,9 @@ Things to do:
 - start the script, then start a measurement cycle with the LGR
 
 addition in file: mimic_pal_sampler_DLT-100.py
-I added the ption to use the RTS and DTS signal to switch some valve.
+I added the option to use the RTS and DTS signal to switch some valve.
 new features:
-automated sampling if solonoid valves are attached to the DTS/RTS pinouts of the serail adapter
+automated sampling if solonoid valves are attached to the DTS/RTS pinouts of the serial ports
 
 A applied example can be found here:
 https://doi.org/10.5194/hess-20-715-2016
